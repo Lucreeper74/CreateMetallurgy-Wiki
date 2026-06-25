@@ -6,7 +6,7 @@ import developers from "./sidebars/developers";
 export default defineConfig({
   title: "Create Metallurgy Wiki",
   description: "Advanced Metallurgy and Stylish Automation Systems",
-  base: '/createmetallurgy-wiki/',
+  base: '/CreateMetallurgy-Wiki/',
 
   cleanUrls: true,
   lastUpdated: true,
