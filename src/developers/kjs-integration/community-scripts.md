@@ -12,7 +12,7 @@ Made by `Benjamin McIntyre`
 📟 Script Source code : [`cmc-cbc-integration.js`](https://gist.github.com/BenMac3o1/369cdfaec306f88cb9a0016f8c5b6f4a) (Github Gist)
 
 > [!CAUTION] REQUIREMENTS
-> Following mods must be installed : [Create](modrinth.com/mod/create), [Create Metallurgy](https://modrinth.com/mod/create-metallurgy), [Create Big Cannons](https://modrinth.com/mod/create-big-cannons)
+> Following mods must be installed : [Create](https://modrinth.com/mod/create), [Create Metallurgy](https://modrinth.com/mod/create-metallurgy), [Create Big Cannons](https://modrinth.com/mod/create-big-cannons)
 
 ### 🧾 `Description`
 Replaces all native CBC forging / alloying / melting / basin-foundry recipes with Create Metallurgy equivalents (alloying, casting_in_table, casting_in_basin, melting). Also hides duplicate CBC items/fluids from JEI where Create Metallurgy provides the canonical version.
