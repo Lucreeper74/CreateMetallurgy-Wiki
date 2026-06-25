@@ -14,7 +14,7 @@ export default defineConfig({
   srcDir: "src",
   srcExclude: ["**/README.md"],
 
-  head: [["link", { rel: "icon", href: "/assets/createmetallurgy-icon-large.webp" }]],
+  head: [["link", { rel: "icon", href: "/CreateMetallurgy-Wiki/assets/createmetallurgy-icon-large.webp" }]],
 
   themeConfig: {
     logo: {
