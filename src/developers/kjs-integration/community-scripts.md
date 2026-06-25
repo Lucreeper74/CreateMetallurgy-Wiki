@@ -9,7 +9,7 @@ Feel free to request your integrations in the [Wiki's Github Page](https://githu
 ## 💣 Create Big Cannon C:BC Integration <Badge type="info" text="Last Update 25/06/26" /> {#create-bc}
 Made by `Benjamin McIntyre`
 
-📟 Script Source code : [`cmc-cbc-integration.js`](https://gist.github.com/BenMac3o1/369cdfaec306f88cb9a0016f8c5b6f4a) (Github Gist)
+📟 Script Source code : [`cmc-cbc-integration.js`](https://gist.github.com/BenMac31/369cdfaec306f88cb9a0016f8c5b6f4a) (Github Gist)
 
 > [!CAUTION] REQUIREMENTS
 > Following mods must be installed : [Create](https://modrinth.com/mod/create), [Create Metallurgy](https://modrinth.com/mod/create-metallurgy), [Create Big Cannons](https://modrinth.com/mod/create-big-cannons)
