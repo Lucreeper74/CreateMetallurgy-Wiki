@@ -1,0 +1,12 @@
+{
+  "name": "createmetallurgy-wiki",
+  "version": "1.0.0",
+  "type": "module",
+ "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview",
+    "lint": "prettier --check .",
+    "lint:fix": "prettier --write ."
+  }
+}
