@@ -20,6 +20,6 @@ Replaces all native CBC forging / alloying / melting / basin-foundry recipes wit
 ### `📋 Instructions`
 Split the script into two scripts :
 - `kubejs/startup_scripts/`  -> lines from `JEIEvents` down to end of `hideFluids`.
-- `kubejs/server_scripts/`   -> everything from `ServerEvents.tags` downward.\o
+- `kubejs/server_scripts/`   -> everything from `ServerEvents.tags` downward.\
     *(Or just drop the whole file into startup_scripts/ — ServerEvents will still
     register, just avoid having duplicate event listeners.)*
