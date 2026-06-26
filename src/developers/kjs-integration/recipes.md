@@ -5,6 +5,8 @@ prev: false
 > [!IMPORTANT]
 >All recipe scripts need to be in place in `kubejs/server_script/` in order to work. You must place those examples in the **KubeJS** :kjs: recipe callback function (please refer to the [KubeJS Recipes Wiki Page](https://kubejs.com/wiki/tutorials/recipes))
 
+Thank to **`Konkentrate`** for recipe examples shown below!
+
 ## Melting <Badge type="warning" text="^v1.0.2" /> <Badge type="danger" text="⚠️ Server script" />
 ```javascript
 // #1 - Poppy -> 80mb of Molten Gold (80 Ticks, Heated)

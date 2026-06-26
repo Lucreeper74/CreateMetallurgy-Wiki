@@ -33,7 +33,8 @@ export default {
           collapsed: true,
           items: [
             {
-              text: "🍲 Recipes",
+              text: "🍲 Recipes", link: "/developers/kjs-integration/recipes",
+              collapsed: true,
               items: [
                 {
                   text: "Melting",
