@@ -1,5 +1,5 @@
 ---
-name: Request Community Integration
+name: "\U0001F380  Request Community Integration"
 about: Request your custom made KubeJS script for the documentation
 title: ''
 labels: request
